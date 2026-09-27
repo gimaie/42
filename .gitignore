@@ -1,0 +1,4 @@
+*.o
+push_swap/push_swap
+minishell/minishell
+.vscode/
